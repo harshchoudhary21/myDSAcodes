@@ -1,0 +1,6 @@
+#An array is a datastructure which contains elements of same type
+#Syntax: <type>arr[size]: An array will be created having garbage value
+#if we declare the array outside main function i.e globally then all the entries of the array will be zero initially
+#if we declare array inside a function then max size is 10^6 and if we declare it globally then maximum size is 10^7
+#if we declare an array then blocks are created in computer memory and blocks are stored in contigous memory location
+ 
